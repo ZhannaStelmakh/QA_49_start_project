@@ -1,0 +1,19 @@
+Homework 3:
+   Create methods with checks(!!!) in the class HomeWork3 with method main()
+  1.
+  static Byte arraySum(boolean[] array)
+  array-->{true, false, true, true,false};
+	    1     0      1     1    0
+  return sum of 1 , when true.  
+
+  2. static Boolean isIncreaseArray(int[] array) {
+	array--> 1,4,6,7,9  result true	  
+        array--> 1,4,6,3,9  result false, because 6 > 3    
+
+  3. replace odd elements of array to el
+     static int[] changeOddElement(int[] array, int el) 
+    	    
+    
+  4*. create method which returns min temperature and it index in array
+      public static int[] returnMinTemperatureAndIndex(int[] degrees)
+        

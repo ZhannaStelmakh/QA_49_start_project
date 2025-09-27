@@ -1,0 +1,25 @@
+Homework 2:
+   Create methods with checks(!!!) in the class HomeWork2 with method main()
+   1.   
+   public static int maxValue(int[] ar)
+         0  1  2   3  4  5 
+	 ar->[9][2][5][11][7][3]
+   find max value in array
+   return 11
+   
+   2.
+   public static char maxValue(char[] ar)
+   ar->['t']['n']['b']['c']['a']['g']['d']
+   return 'a' the highest character in array
+   
+   3.
+   public static int evensSum(int[] ar)
+   ar->[9][2][5][4][7][8]
+   calculate sum of evens in array
+   2 + 4 + 8 = 14 return 14
+   
+   4. advanced
+   public static int minPositiveValue(int[] ar)
+   ar->[-9][2][5][-4][7][8]
+   find and return min positive value in array
+   return 2

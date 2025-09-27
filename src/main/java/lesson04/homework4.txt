@@ -1,0 +1,18 @@
+Homework:
+Create methods with checks(!!!) in the class HomeWork4 with method main(),
+after do all checking
+  1.
+  public static void printCharIndex(String str, char sym)
+         012345678910
+  str = "hello world" sym = 'l'
+  output:
+  2 3 9
+
+  2.
+  Boolean isPalindrome(String str)   dovod  - true  dovod1 - false
+
+  3.advanced
+  public static Integer substringIndex(String s , String sub)
+       01234567         012
+  s = "abcdefgh" sub = "def"
+  return 3 if not exists return -1

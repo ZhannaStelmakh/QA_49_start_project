@@ -1,0 +1,12 @@
+Create methods with checks(!!!) in the class HomeWork4 with method main(),
+after do all checking
+1. Print string reverse
+    static void printReverse(String str)
+    12345  -> 54321
+
+2. static String returnStringReverse(String str)
+ to be or not to be  --> eb ot ton ro eb ot
+
+3*. static String returnwordInTextReverse(String text)
+ "To keep your balance, you must keep moving. To"
+ Ot peek ruoy ecnalab, uoy ......  word may end space, ",", "."
